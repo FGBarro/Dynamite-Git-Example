@@ -1,2 +1,2 @@
 # Dynamite-Git-Example
-this repo is just for practice
+this repo is just for practice.Addtional texts
